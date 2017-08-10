@@ -17,9 +17,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.lst.microxin</string>
+                <string>com.kl668.klmh</string>
                 <key>bundle-version</key>
-                <string>2</string>
+                <string>7</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>releaseNotes</key>
